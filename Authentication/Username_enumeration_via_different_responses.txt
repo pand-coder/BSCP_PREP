@@ -1,0 +1,19 @@
+Password based authentication Vulnerability 
+
+Username enumeration via different responses
+
+Normally try logging with a random username and password 
+
+and capture the request using burp intruder and do sniper attack for username with provided 
+simple list 
+
+and identify username with variance in length 
+
+username = acceso
+
+
+and similarly do for password and check up the status code column 
+there is 302 status code 
+
+password = 1234567
+

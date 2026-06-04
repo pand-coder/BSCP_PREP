@@ -1,0 +1,13 @@
+Password based authentication Vulnerability 
+
+Username enumeration via subtly different responses
+
+Do negative search with intruder results and click apply 
+the request with not 
+Invalid username or password . 
+
+will appear which is our username 
+
+and bruteforce password using sniper attack and differentiate using status code 
+
+
