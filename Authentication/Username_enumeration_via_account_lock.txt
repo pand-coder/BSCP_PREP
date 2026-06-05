@@ -1,0 +1,7 @@
+as wkt 
+that incorrect number of attempts lead to account lockout 
+so try logging in with incorrect username and password 
+
+and use null payloads to make sure username get's repeated and do cluster bomb attack with avilable username 
+and password wordlists 
+

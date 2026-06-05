@@ -1,0 +1,16 @@
+Try to login with incorrect username and password 
+
+and send the req to intruder 
+
+after trying a long password with appropriate username the response time is huge 
+
+
+so to enumerate valid username response time becomes a crucial factory 
+
+
+to bypass ip-blocking bruteforce protection use 
+
+X-Forwarded-For:1 header as it spoofs the client ip 
+
+and enumerate usernames and passwords with having an eye on resposne received,response sent and status code 
+
