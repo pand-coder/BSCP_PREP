@@ -1,0 +1,9 @@
+weiner:peter 
+check the stay-loggedin cookie 
+
+the stayloggedin cookie structure is 
+
+base64("weiner:"+"MD5hash(password)")
+
+decode the stayloggedin cookie using base64 decoder 
+you can crack the hash using crack station 

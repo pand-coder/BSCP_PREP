@@ -4,7 +4,6 @@ Listing the contents of the non oracle database
 
 Most database types (except Oracle) have a set of views called the information schema. This provides information about the database(metadata).
 
-
 query information_schema.tables to list the tables in the dataabse 
 SELECT * FROM information_schema.tables
 

